@@ -34,7 +34,7 @@ This student-centric approach promotes not only academic tracking but emotional 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Install the required libraries using the provided `requirements.txt` file.
+2. Install the required libraries using the provided `requirements` file.
 3. Run the application using:
 
    ```bash
