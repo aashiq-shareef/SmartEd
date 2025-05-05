@@ -1,4 +1,3 @@
-
 # SmartEd – Emotion-Based Face Attendance System
 
 ## Introduction
